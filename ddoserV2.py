@@ -1,4 +1,4 @@
-!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 DDoS Script to bypass 403 firewall / bot detection
 Requirements: pip install requests aiohttp 
