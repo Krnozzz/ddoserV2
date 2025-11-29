@@ -2,3 +2,5 @@ flask
 requests
 numpy
 pandas
+aiohttp>=3.9.0
+colorama>=0.4.6
