@@ -28,7 +28,7 @@ class CliAttacker:
     def __init__(self, target_url, num_requests):
         self.target_url = target_url
         self.num_requests = num_requests
-        self.max_concurrent = 250
+        self.max_concurrent = 800
         self.success_count = 0
         self.fail_count = 0
         self.start_time = None
